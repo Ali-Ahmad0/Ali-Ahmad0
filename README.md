@@ -14,4 +14,4 @@ ___
 <a href="https://godotengine.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Godot_logo.svg" alt="Godot" width="160" height="64"/></a>
 
 ### Links
-<a href="https://blaze-glitch.itch.io/"><img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Itch.io_logo.svg" alt="C" width="64" height="64"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://blaze-glitch.itch.io/"><img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Itch.io_logo.svg" alt="C" width="248" height="64"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
