@@ -8,7 +8,7 @@ A student of computer science, I code things that I find interesting.
 ### Languages/Tools Used:
 
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="50" height="50"/></a>
-<a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="[https://upload.wikimedia.org/wikipedia/commons/1/18/C%2B%2B_Logo.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/180px-ISO_C%2B%2B_Logo.svg.png)" alt="C++" width="50" height="50"/></a>
+<a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C%2B%2B_Logo.svg" alt="C++" width="50" height="50"/></a>
 <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Csharp_Logo.png" alt="C#" width="50" height="50"/></a>
 <a href="https://en.wikipedia.org/wiki/Java_(programming_language)"><img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Java_Logo.svg" alt="Java" width="50" height="50"/></a>
 <a href="https://en.wikipedia.org/wiki/SQL"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/SQL_Logo.svg" alt="SQL" width="50" height="50"/></a>
