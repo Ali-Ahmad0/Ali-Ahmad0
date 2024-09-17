@@ -3,7 +3,7 @@
 
 A student of computer science, I code things that I find interesting.
 
-...
+___
 
 ### Languages/Tools Used:
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="64" height="64"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -12,3 +12,6 @@ A student of computer science, I code things that I find interesting.
 <a href="https://en.wikipedia.org/wiki/SQL"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/MySQL_logo.svg/1280px-MySQL_logo.svg.png" alt="SQL" width="96" height="64"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://en.wikipedia.org/wiki/Unity_(game_engine)"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Unity_2021.svg/1920px-Unity_2021.svg.png" alt="Unity" width="176" height="64"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://godotengine.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Godot_logo.svg" alt="Godot" width="160" height="64"/></a>
+
+### Links
+<a href="https://blaze-glitch.itch.io/"><img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Itch.io_logo.svg", alt="itch.io", width="248", height="64/></a>
